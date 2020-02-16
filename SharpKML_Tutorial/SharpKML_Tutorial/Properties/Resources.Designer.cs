@@ -63,9 +63,9 @@ namespace SharpKML_Tutorial.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap google_developers_logo_2 {
+        internal static System.Drawing.Bitmap icons8_treasure_map_100 {
             get {
-                object obj = ResourceManager.GetObject("google-developers-logo-2", resourceCulture);
+                object obj = ResourceManager.GetObject("icons8-treasure-map-100", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -73,9 +73,9 @@ namespace SharpKML_Tutorial.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap kisspng_web_development_web_developer_web_design_software_color_resume {
+        internal static System.Drawing.Bitmap img_441023 {
             get {
-                object obj = ResourceManager.GetObject("kisspng-web-development-web-developer-web-design-software-color-resume", resourceCulture);
+                object obj = ResourceManager.GetObject("img_441023", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
