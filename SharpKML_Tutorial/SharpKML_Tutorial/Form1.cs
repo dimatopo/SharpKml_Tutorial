@@ -17,6 +17,7 @@ namespace SharpKML_Tutorial
 {
     public partial class Form1 : Form
     {
+        // чтобы перетаскивать форму без внешних панелей
         bool drag = false;
         Point start_point = new Point(0, 0);
 
@@ -28,7 +29,7 @@ namespace SharpKML_Tutorial
 
         private void Form1_Load(object sender, EventArgs e)
         {
-           
+
 
             pictureBoxLogo.BackColor = Color.Transparent;
 
@@ -130,6 +131,25 @@ namespace SharpKML_Tutorial
         private void PanelTop_MouseUp(object sender, MouseEventArgs e)
         {
             drag = false;
+        }
+
+        private void bunifuFlatButton1_Click(object sender, EventArgs e)
+        {
+            frmAddOnePointLocation frm = new frmAddOnePointLocation();
+            frm.ShowDialog();
+        }
+
+        private void panelTop_DoubleClick(object sender, EventArgs e)
+        {
+            //if (MaximizeBox == true)
+            //{
+            //    this.WindowState = FormWindowState.Minimized;
+            //}
+
+            //else if (this.MaximizeBox == false)
+            //{
+            //    WindowState = FormWindowState. Maximized;
+            //}
         }
     }
 

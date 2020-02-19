@@ -15,3 +15,20 @@ D:\C_Sharp  Projects\SharpKml_Tutorial\SharpKML_Tutorial\SharpKML_Tutorial\obj\D
 D:\C_Sharp  Projects\SharpKml_Tutorial\SharpKML_Tutorial\SharpKML_Tutorial\bin\Debug\Bunifu_UI_v1.5.3.dll
 D:\C_Sharp  Projects\SharpKml_Tutorial\SharpKML_Tutorial\SharpKML_Tutorial\bin\Debug\GMap.NET.Core.dll
 D:\C_Sharp  Projects\SharpKml_Tutorial\SharpKML_Tutorial\SharpKML_Tutorial\bin\Debug\GMap.NET.WindowsForms.dll
+D:\Projects\Kml_tutorial\SharpKML_Tutorial\SharpKML_Tutorial\bin\Debug\SharpKML_Tutorial.exe.config
+D:\Projects\Kml_tutorial\SharpKML_Tutorial\SharpKML_Tutorial\bin\Debug\SharpKML_Tutorial.exe
+D:\Projects\Kml_tutorial\SharpKML_Tutorial\SharpKML_Tutorial\bin\Debug\SharpKML_Tutorial.pdb
+D:\Projects\Kml_tutorial\SharpKML_Tutorial\SharpKML_Tutorial\bin\Debug\VisualReactiveWinForms.dll
+D:\Projects\Kml_tutorial\SharpKML_Tutorial\SharpKML_Tutorial\bin\Debug\Guna.UI.pdb
+D:\Projects\Kml_tutorial\SharpKML_Tutorial\SharpKML_Tutorial\bin\Debug\VisualReactiveWinForms.xml
+D:\Projects\Kml_tutorial\SharpKML_Tutorial\SharpKML_Tutorial\obj\Debug\SharpKML_Tutorial.Form1.resources
+D:\Projects\Kml_tutorial\SharpKML_Tutorial\SharpKML_Tutorial\obj\Debug\SharpKML_Tutorial.Properties.Resources.resources
+D:\Projects\Kml_tutorial\SharpKML_Tutorial\SharpKML_Tutorial\obj\Debug\SharpKML_Tutorial.csproj.GenerateResource.cache
+D:\Projects\Kml_tutorial\SharpKML_Tutorial\SharpKML_Tutorial\obj\Debug\SharpKML_Tutorial.exe
+D:\Projects\Kml_tutorial\SharpKML_Tutorial\SharpKML_Tutorial\obj\Debug\SharpKML_Tutorial.pdb
+D:\Projects\Kml_tutorial\SharpKML_Tutorial\SharpKML_Tutorial\bin\Debug\SharpKml.dll
+D:\Projects\Kml_tutorial\SharpKML_Tutorial\SharpKML_Tutorial\bin\Debug\SharpKml.xml
+D:\Projects\Kml_tutorial\SharpKML_Tutorial\SharpKML_Tutorial\obj\Debug\SharpKML_Tutorial.csprojAssemblyReference.cache
+D:\Projects\Kml_tutorial\SharpKML_Tutorial\SharpKML_Tutorial\obj\Debug\SharpKML_Tutorial.frmAddOnePointLocation.resources
+D:\Projects\Kml_tutorial\SharpKML_Tutorial\SharpKML_Tutorial\obj\Debug\SharpKML_Tutorial.csproj.CoreCompileInputs.cache
+D:\Projects\Kml_tutorial\SharpKML_Tutorial\SharpKML_Tutorial\obj\Debug\SharpKML_Tutorial.csproj.CopyComplete
