@@ -163,7 +163,7 @@
             this.bunifuFlatButton2.IconRightVisible = true;
             this.bunifuFlatButton2.IconRightZoom = 0D;
             this.bunifuFlatButton2.IconVisible = true;
-            this.bunifuFlatButton2.IconZoom = 70D;
+            this.bunifuFlatButton2.IconZoom = 80D;
             this.bunifuFlatButton2.IsTab = false;
             this.bunifuFlatButton2.Location = new System.Drawing.Point(3, 169);
             this.bunifuFlatButton2.Margin = new System.Windows.Forms.Padding(5, 3, 5, 3);
