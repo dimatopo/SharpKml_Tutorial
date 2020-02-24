@@ -531,4 +531,29 @@
         AABJRU5ErkJggg==
 </value>
   </data>
+  <data name="btnCancel.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAJEAAAAzCAYAAACXDOrGAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEsSURBVHhe7dytSkRBAIZhwWjzDrwKm8VksXsJGhSMWowb
+        BLthkwiGDYKGtYggBpNNTCIiLFrOHYzMHlj/Xd2vPuFhznz5ZeKZapqmQEJExERETETERERMRMRGEQ2e
+        X8reUb9s7fdgrM7Babm7f3yL6OFpUGaXN8v04hr82czSRrm8uW0jqi9QHedWtr+tDj6bX+0Mm9npHrcR
+        1bEO9ax3GOd9MyJiIiIiJiJiIiImImIiIiYiYiIiJiJiIiImImIiIiYiYiIiJiJiIiImImIiIiYiYiIi
+        JiJiIiImImIiIiYiYiIiJiJiIiImImIiIiYiYiIiJiJiP0a0sL47/IZxaisfIqo/b6wD/Nfh2VUbUdU7
+        v/5SG/yme3IxbGcUEUxKRMRERExExEREqCmv9GksOYxBssEAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="btnAnalysis.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAJEAAAAzCAYAAACXDOrGAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEsSURBVHhe7dytSkRBAIZhwWjzDrwKm8VksXsJGhSMWowb
+        BLthkwiGDYKGtYggBpNNTCIiLFrOHYzMHlj/Xd2vPuFhznz5ZeKZapqmQEJExERETETERERMRMRGEQ2e
+        X8reUb9s7fdgrM7Babm7f3yL6OFpUGaXN8v04hr82czSRrm8uW0jqi9QHedWtr+tDj6bX+0Mm9npHrcR
+        1bEO9ax3GOd9MyJiIiIiJiJiIiImImIiIiYiYiIiJiJiIiImImIiIiYiYiIiJiJiIiImImIiIiYiYiIi
+        JiJiIiImImIiIiYiYiIiJiJiIiImImIiIiYiYiIiJiJiP0a0sL47/IZxaisfIqo/b6wD/Nfh2VUbUdU7
+        v/5SG/yme3IxbGcUEUxKRMRERExExEREqCmv9GksOYxBssEAAAAASUVORK5CYII=
+</value>
+  </data>
+  <metadata name="contextMenuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
 </root>

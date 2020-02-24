@@ -37,8 +37,8 @@ namespace SharpKML_Tutorial
             gMapControl1.CanDragMap = true; //Открываем доступ к манипулированию картой мышью через зажатие правой кнопкой(по умолчанию).
             gMapControl1.DragButton = MouseButtons.Left; //Меняем кнопку манипулирования с правой кнопки(по умолчанию) на левую кнопку мыши.
             gMapControl1.GrayScaleMode = true;
-            gMapControl1.MaxZoom = 14; //Устанавливаем максимальное приближение.
-            gMapControl1.MinZoom = 2; //Устанавливаем минимальное приближение.
+            gMapControl1.MaxZoom = 20; //Устанавливаем максимальное приближение.
+            gMapControl1.MinZoom = 14; //Устанавливаем минимальное приближение.
             gMapControl1.MouseWheelZoomType = MouseWheelZoomType.MousePositionAndCenter; //Устанавливаем центр приближения/удаления курсор мыши.
 
             gMapControl1.PolygonsEnabled = true; //Открываем отображение полигонов на карте.
@@ -58,6 +58,7 @@ namespace SharpKML_Tutorial
             GMapMarkerGoogleGreen marker = new GMapMarkerGoogleGreen(new PointLatLng(54.997656, 82.695610)); //Создаем новый маркер.
             marker.ToolTip = new GMapRoundedToolTip(marker); //Создаем всплывающее окно
             marker.ToolTipText = "Дом"; //Задаем текст для всплывающего окна
+            gMapControl1.Zoom = 14;
 
             markersOverlay.Markers.Add(marker); //Добавляем маркер коллекцию.
             gMapControl1.Overlays.Add(markersOverlay); //Добавляем коллекцию в очередь на вывод на карту.

@@ -32,3 +32,5 @@ D:\Projects\Kml_tutorial\SharpKML_Tutorial\SharpKML_Tutorial\obj\Debug\SharpKML_
 D:\Projects\Kml_tutorial\SharpKML_Tutorial\SharpKML_Tutorial\obj\Debug\SharpKML_Tutorial.frmAddOnePointLocation.resources
 D:\Projects\Kml_tutorial\SharpKML_Tutorial\SharpKML_Tutorial\obj\Debug\SharpKML_Tutorial.csproj.CoreCompileInputs.cache
 D:\Projects\Kml_tutorial\SharpKML_Tutorial\SharpKML_Tutorial\obj\Debug\SharpKML_Tutorial.csproj.CopyComplete
+d:\C_Sharp  Projects\SharpKml_Tutorial\SharpKML_Tutorial\SharpKML_Tutorial\bin\Debug\SharpKml.xml
+d:\C_Sharp  Projects\SharpKml_Tutorial\SharpKML_Tutorial\SharpKML_Tutorial\obj\Debug\SharpKML_Tutorial.frmAddOnePointLocation.resources

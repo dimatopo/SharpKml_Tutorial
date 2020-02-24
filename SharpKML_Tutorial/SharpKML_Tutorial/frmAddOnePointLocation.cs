@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
+
 namespace SharpKML_Tutorial
 {
     public partial class frmAddOnePointLocation : Form
@@ -44,6 +46,29 @@ namespace SharpKML_Tutorial
         private void bunifuGradientPanel1_MouseUp(object sender, MouseEventArgs e)
         {
             drag = false;
+        }
+
+        private void btnCancel_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
+
+        private void txtInsertCoordinats_Enter(object sender, EventArgs e)
+        {
+            txtInsertCoordinats.Text = "";
+            txtInsertCoordinats.ForeColor = Color.Black;
+            txtInsertCoordinats.Font =
+                new System.Drawing.Font("Microsoft Sans Serif", 11F);
+        }
+
+        private void txtInsertCoordinats_Leave(object sender, EventArgs e)
+        {
+            if (txtInsertCoordinats.Text == "")
+            {
+                txtInsertCoordinats.Text = "Скопируйте координаты сюда...";
+                txtInsertCoordinats.ForeColor = Color.DarkGoldenrod;
+                txtInsertCoordinats.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Italic);
+            }
         }
     }
 }
